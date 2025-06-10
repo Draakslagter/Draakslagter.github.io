@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+* {
+    font-family: "Roboto Slab", serif;
+}
+
+body {
+    background-color: #456990;
+}
+
+.roboto-slab-regular {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.roboto-slab-semibold {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffb8d1;
+}
+
+.navbar{
+    background-color: #231123;
+}
+
+.card{
+    background-color: #456990;
+}
+
+.card-text{
+    color: #ffb8d1;
+}
+
+.text-body-secondary{
+    color: #B0C4B1 !important;
+}
