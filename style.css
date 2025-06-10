@@ -2,6 +2,7 @@
 
 * {
     font-family: "Roboto Slab", serif;
+    color: black;
 }
 
 body {
@@ -29,7 +30,7 @@ body {
 }
 
 .card{
-    background-color: #456990;
+    background-color: #231123;
 }
 
 .card-text{
