@@ -29,6 +29,9 @@ body {
     background-color: #231123;
 }
 
+.navbar-toggler{
+    background-color: #ffb8d1;
+}
 .card{
     background-color: #231123;
 }
